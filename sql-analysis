@@ -1,0 +1,21 @@
+sql-analysis/
+├── 01_sql-fundamentals/
+│   ├── select_where.sql
+│   ├── order_by_limit.sql
+│   ├── group_by.sql
+│   ├── joins.sql
+│
+├── 02_business-queries/
+│   ├── sales_performance.sql
+│   ├── customer_value.sql
+│   ├── revenue_trends.sql
+│
+├── 03_sql_for_powerbi/
+│   ├── dataset_preparation.sql
+│   ├── star_schema_example.sql
+│
+├── notes/
+│   ├── sql_cheatsheet.md
+│   ├── common_mistakes.md
+│
+└── README.md
